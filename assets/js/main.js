@@ -180,7 +180,7 @@ const servicesData = {
 	  "Check Engine Light Code Retrieval",
 	  "Air Filter Replacement Installation",
 	  "Starting and Charging System Evaluation",
-	  "Tire Pressure Check and Adjustment",
+	  "Tyre Pressure Check and Adjustment",
 	  "Visual Brake Inspection",
 	  "Fluid Level Check (Engine Oil, Brake Fluid, etc.)",
 	  "Exhaust System Inspection",
@@ -245,7 +245,7 @@ const servicesData = {
 	  "Headlight Lens Polishing",
 	  "Underbody Wash",
 	  "Waxing and Polishing",
-	  "Tire Shine and Detailing"
+	  "Tyre Shine and Detailing"
 	],
 	"SYSTEM_EVALUATIONS": [
 	  "A/C System Leak Evaluation",
@@ -261,18 +261,18 @@ const servicesData = {
 	  "Vacuum Leak Check",
 	  "Exhaust Emission Check"
 	],
-	"TIRE_SERVICES": [
-	  "Tire Rotation",
-	  "Tire Balancing",
-	  "Tire Pressure Monitoring System (TPMS) Check",
-	  "Tire Replacement",
+	"TYRE_SERVICES": [
+	  "Tyre Rotation",
+	  "Tyre Balancing",
+	  "Tyre Pressure Monitoring System (TPMS) Check",
+	  "Tyre Replacement",
 	  "Puncture Repair",
-	  "Tire Alignment",
-	  "Run-flat Tire Services",
-	  "Low-Profile Tire Services",
-	  "Flat Tire Repair",
-	  "Tire Mounting and Demounting",
-	  "High-Performance Tire Installations"
+	  "Tyre Alignment",
+	  "Run-flat Tyre Services",
+	  "Low-Profile Tyre Services",
+	  "Flat Tyre Repair",
+	  "Tyre Mounting and Demounting",
+	  "High-Performance Tyre Installations"
 	],
 	"ELECTRICAL_SERVICES": [
 	  "Alternator Testing and Replacement",

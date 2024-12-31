@@ -1,7 +1,7 @@
 :root {
-    --primary-color: #CE3B3B;
-    --secondary-color: #CEB824;
-    --third-color: #227c32;
+    --primary-color: #0F4D91;
+    --secondary-color: #D3AF36;
+    --third-color: #0A8E3D;
 }
 
 body {
@@ -960,6 +960,7 @@ h5 {
 
 .navbar-b .navbar-brand img {
     max-width: 200px;
+    padding-inline-end: 30px;
 }
 
 .navbar-b .navbar-nav .dropdown-item.show .dropdown-menu,
